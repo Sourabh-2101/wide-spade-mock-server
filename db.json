@@ -22,7 +22,7 @@
             "level": "beginner"
           },
           {
-            "id": 24,
+            "id": 2,
             "title": "UI/UX Designer",
             "description": "The main course in the profession of UX designer. Short training period, theory and practice on real problems.",
             "duration": "12 months",
@@ -49,8 +49,7 @@
             "duration": "8 months",
             "level": "beginner"
           }
-        ],
-        "id": 4
+        ]
       }
     ],
     "Courses": [
